@@ -11,6 +11,6 @@
   "dependencies": {
     "node-telegram-bot": "^0.1.9",
     "request": "^2.69.0",
-    "striptags": "^3.0.0"
+    "striptags": "^3.0.1"
   }
 }
